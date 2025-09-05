@@ -4,7 +4,7 @@
 
 - 🔭 Currently working at **Metadata Circle** as a **Software Engineer**.  
 - 🌱 Exploring **Spring Boot, ReactJS, and PHP**.  
-- 💡 Enthusiastic about **Web Development, Databases, and Scalable Systems**.  
+- 💡 Enthusiastic about **Backend Development, Web Development, Databases, and Scalable Systems**.  
 - 💬 Ask me about **Java, Spring Boot, React, MySQL, PHP**.  
 - 📫 Reach me at **hingmireabhishek250@gmail.com**  
 
