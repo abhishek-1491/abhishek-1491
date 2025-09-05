@@ -30,5 +30,5 @@
 ---
 
 ### 🚀 Connect with Me:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/abhishek-hingmire-a6a41a20b/)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abhishek-hingmire-a6a41a20b/)  
 - Email: **hingmireabhishek250@gmail.com**  
